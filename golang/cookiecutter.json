@@ -1,0 +1,10 @@
+{
+    "full_name": "Buck Brady",
+    "github_username": "voidrot",
+    "project_name": "mygoproject",
+    "project_short_description": "A Short Description.",
+    "project_license": ["MIT", "Closed Source"],
+    "cmd_name": "mycmd",
+    "go_version": "1.16",
+    "version": "0.1.0"
+}

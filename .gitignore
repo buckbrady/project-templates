@@ -1,0 +1,19 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Cookiecutter
+output/
+python_boilerplate/
+cookiecutter-pypackage-env/
+
+# IDE settings
+.vscode/
+
+# mkdocs
+site/

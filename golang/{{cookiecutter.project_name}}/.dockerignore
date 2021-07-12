@@ -1,0 +1,9 @@
+**
+!go.mod
+!cmd/**
+!assets/**
+!internal/**
+!pkg/**
+!third_party/**
+!vendor/**
+!web/**

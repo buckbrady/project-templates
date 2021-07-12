@@ -1,0 +1,42 @@
+site_name:  {{ cookiecutter.project_name }} Documentation
+repo_url: https://github.com/voidrot/project-template
+# repo_name: Voidrot Cookiecutter Project Generator
+nav:
+  - Home: index.md
+
+# theme:
+#   name: material
+#   language: en
+#   #logo: assets/logo.png
+#   palette:
+#     primary: light blue
+#   features:
+#     - navigation.indexes
+#     - navigation.tabs
+#     - navigation.instant
+#     - navigation.tabs.sticky
+
+# markdown_extensions:
+#   - pymdownx.highlight:
+#       linenums: true
+#   - pymdownx.emoji:
+#       emoji_index: !!python/name:materialx.emoji.twemoji
+#       emoji_generator: !!python/name:materialx.emoji.to_svg
+#   - pymdownx.superfences
+#   - pymdownx.details
+#   - admonition
+#   - toc:
+#       baselevel: 2
+#       permalink: true
+#       slugify: !!python/name:pymdownx.slugs.uslugify
+# plugins:
+#   - include-markdown
+#   - search:
+#       lang: en
+# extra:
+#   social:
+#     - icon: fontawesome/brands/github
+#       link: https://github.com/voidrot
+#       name: Github
+#     - icon: material/email
+#       link: "mailto:buck@fluentops.io"
