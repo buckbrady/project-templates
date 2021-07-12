@@ -1,0 +1,11 @@
+{
+    "full_name": "Buck Brady",
+    "github_username": "voidrot",
+    "project_name": "my-react-site",
+    "project_short_description": "A Short Description.",
+    "project_license": ["MIT", "Closed Source"],
+    "version": "0.1.0",
+    "app_name": "My React App",
+    "app_name_short": "My App",
+    "site_title": "My React App"
+}
